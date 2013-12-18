@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application -->
+    <string name="app_name_receiver">BluetoothClient</string>
+    <string name="app_name_info_controller">Bluetooth Info Controller</string>
+    <string name="app_name_uniform">Uniform Touch</string>
+    <string name="app_name_uniform_visualization">Uniform Visualization</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Manifest -->
+    <string name="select_device">Select Device to connect</string>
+    
+    <!-- Device List -->
+    <string name="title_paired_devices">paired devices</string>
+    <string name="title_other_devices">scan for other devices</string>
+    <string name="button_scan">scan</string>
+    
+    <!-- Bluetooth -->
+    <string name="bt_not_enabled_leaving">Bluetooth is not enabled.</string>
+    
+    <!-- Touch and Unifromed Touch -->
+    <string name="text_x">x:</string>
+    <string name="text_y">y:</string>
+    <string name="touch_header"></string>
+    <string name="text_p">p:</string>
+    <string name="fsr_header"></string>
+    
+    <!-- Option Menu -->
+    <string name="connect">scan for other devices</string>
+    <string name="discoverable">make discoverable</string>
+    
+    <!-- Dummy String -->
+    <string name="dummy"></string>
+    <string name="zero">0</string>
+
+</resources>

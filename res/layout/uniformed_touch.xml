@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_weight="1"
+	android:layout_height="fill_parent" android:orientation="vertical"
+	android:layout_gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="100dp" >
+
+        <TextView
+            android:id="@+id/touch_x1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+        	android:layout_marginRight="100dp"
+            android:text="0" />
+
+        <TextView
+            android:id="@+id/touch_y1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+        	android:layout_marginRight="100dp"
+            android:text="0" />
+
+        <TextView
+            android:id="@+id/touch_p1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+        	android:layout_marginRight="100dp"
+            android:text="0" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="100dp" >
+
+        <TextView
+            android:id="@+id/touch_x2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+        	android:layout_marginRight="100dp"
+            android:text="0" />
+
+        <TextView
+            android:id="@+id/touch_y2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+        	android:layout_marginRight="100dp"
+            android:text="0" />
+
+        <TextView
+            android:id="@+id/touch_p2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+        	android:layout_marginRight="100dp"
+            android:text="0" />
+        
+    </LinearLayout>
+    	
+</LinearLayout>
